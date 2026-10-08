@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Tracker.Domain/Tracker.Domain.csproj" Id="f50fe4d4-f2f8-4180-81dc-e41dcd7a9d3d" />
+  <Project Path="tests/Tracker.Domain.Tests/Tracker.Domain.Tests.csproj" Id="443011e3-06ae-4518-9cbd-46db3a8485a5" />
+</Solution>
